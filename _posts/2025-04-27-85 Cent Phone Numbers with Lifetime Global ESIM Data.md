@@ -1,6 +1,6 @@
 
 ### KeepGo
-Simple Prepaid ESIMs with LifeTime Data.  [keepgo](keepgo.com)
+Simple Prepaid ESIMs with LifeTime Data.  [keepgo](https://www.keepgo.com)
 
 ![Keepgo offerings](/assets/img/posts/2025-04/keepgo.png)
 
