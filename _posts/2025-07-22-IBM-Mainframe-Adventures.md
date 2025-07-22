@@ -1,5 +1,3 @@
-# IBM Mainframe Adventures
-
 ![IBM Banner](https://ipopell.art/content/images/size/w2000/2022/02/IBM-feature-banner.jpg)
 
 ### Free Course on Coursera with Mainframe Access
